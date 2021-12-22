@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\SEM.obj" 
+TO ".\Objects\SmartEM" 
+PRINT(".\Listings\SmartEM.m51")
